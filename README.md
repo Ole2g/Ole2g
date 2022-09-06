@@ -2,7 +2,7 @@
 - 👀 I’m interested in paiting and blockchain
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on game projects 
-- 📫 How to reach me, you can find me on twitter @Olegbas123
+- 📫 How to reach me, you can find me on twitter @Olegbas123 and discord : olegg#5110
 
 
 <!---
