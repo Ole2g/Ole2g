@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ole2g
 - 👀 I’m interested in paiting and blockchain
 - 🌱 I’m currently learning java and javascipt
-- 💞️ I’m looking to collaborate on game projects 
+- 💞️ I’m looking to collaborate on game projects and crypto related 
 - 📫 How to reach me, you can find me on twitter @Olegbas123 and discord : olegg#5110
 
 
